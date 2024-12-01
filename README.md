@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:01.12.2024
+## Register Number:24900909
+## Name:S.Komalavarshini
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,46 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1. Registration and Profile Management
+Create a user-friendly registration process for alumni to sign up and create their profiles. This can include fields for contact information, education history, career details, and interests.
 
+2. Networking and Directory
+Develop a searchable alumni directory that allows users to connect with each other based on various criteria such as batch year, department, location, or profession. Include features for messaging, friend requests, and discussion forums.
+
+3. Event Management and Notifications
+Create an events calendar that lists upcoming alumni events, reunions, and conferences. Allow users to RSVP, receive reminders, and get notified about new events. Integrate social media sharing to promote events.
+
+4. Career Development and Mentorship
+Offer resources for career development, such as job listings, internship opportunities, and mentorship programs. Allow alumni to volunteer as mentors or industry experts, providing guidance to current students or younger alumni.
+
+5. News and Updates
+Create a news section that showcases university updates, alumni achievements, and success stories. Allow users to submit their own updates, achievements, or articles for publication. Integrate social media feeds to keep the community engaged.
 
 ## Proposed Solution / Architecture Diagram
 
+![1111](https://github.com/user-attachments/assets/250a0393-27f0-4e7d-b868-0b4cd95c300d)
+
 
 ## Use Cases
+![222](https://github.com/user-attachments/assets/648ad551-6078-4008-ab6e-354edb926213)
 
 
 ## Technology Stack
+Database
 
+1. Database Management System: MySQL or MongoDB for storing and managing alumni data, event information, and other relevant details.
+
+Integration and Security
+
+1. API Gateway and Authentication: API Gateway (e.g., AWS API Gateway) for managing API requests and responses, and OAuth 2.0 or JWT for authentication and authorization.
+
+Deployment and Hosting
+
+1. Cloud Hosting: Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP) for hosting the platform, ensuring scalability, reliability, and security.
 
 ## Dependencies
+Mapping service- 10 days
 
+Data collection- 20 days
+
+budget- rs.50,000
